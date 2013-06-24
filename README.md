@@ -1,4 +1,3 @@
-screenshots
-===========
+# rsrc
 
-Screenshots for my repos
+Image resources for my GitHub repos
